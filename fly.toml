@@ -1,6 +1,6 @@
 # fly.toml file generated on 2023-04-23T01:05:01Z
 
-app = "fiap9as0-group31"
+app = "labdevops-9aso-group31"
 kill_signal = "SIGINT"
 kill_timeout = 5
 
